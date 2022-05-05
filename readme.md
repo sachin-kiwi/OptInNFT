@@ -18,3 +18,4 @@ assetID=87153408 npm start
 
     6. Algorand Explorer: https://testnet.algoexplorer.io/
    
+    7. Kindly refer .env.example for .env format to be using 
